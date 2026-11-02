@@ -8,6 +8,13 @@
 - 原始 PDF：https://www.gimph.nchu.edu.tw/storage/upload/download/1040302.pdf
 - 處理：只取中文版，依章／條／款切成 35 篇 TXT（一節一檔），只接回 PDF 換行、不改寫條文；每篇加上章節、類別、原文頁碼與一題檢索練習問題。
 
+## 在 Colab 開啟
+
+- RAG01（建立向量資料庫）：[Open in Colab](https://colab.research.google.com/github/Alan47495/genai-hw7-lab-safety-rag/blob/main/%E4%B8%AD%E8%88%88_4113052132_%E7%94%9F%E7%A7%913_%E8%94%A1%E5%AE%B8%E7%B6%AD_HW7_RAG01.ipynb)
+- RAG02（RAG 對話機器人＋Gradio）：[Open in Colab](https://colab.research.google.com/github/Alan47495/genai-hw7-lab-safety-rag/blob/main/%E4%B8%AD%E8%88%88_4113052132_%E7%94%9F%E7%A7%913_%E8%94%A1%E5%AE%B8%E7%B6%AD_HW7_RAG02.ipynb)
+
+執行 RAG02 前，在 Colab 左側 🔑 密鑰新增名稱為 `Groq` 的 Groq API key。
+
 ## 檔案
 
 | 檔案 | 說明 |
