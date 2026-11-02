@@ -10,8 +10,10 @@
 
 ## 在 Colab 開啟
 
-- RAG01（建立向量資料庫）：[Open in Colab](https://colab.research.google.com/github/Alan47495/genai-hw7-lab-safety-rag/blob/main/%E4%B8%AD%E8%88%88_4113052132_%E7%94%9F%E7%A7%913_%E8%94%A1%E5%AE%B8%E7%B6%AD_HW7_RAG01.ipynb)
-- RAG02（RAG 對話機器人＋Gradio）：[Open in Colab](https://colab.research.google.com/github/Alan47495/genai-hw7-lab-safety-rag/blob/main/%E4%B8%AD%E8%88%88_4113052132_%E7%94%9F%E7%A7%913_%E8%94%A1%E5%AE%B8%E7%B6%AD_HW7_RAG02.ipynb)
+- RAG02（RAG 對話機器人＋Gradio，主要繳交）：[Open in Colab](https://colab.research.google.com/drive/1rayJ5b67XliKvi6EQgUWxb0NMAEG3vYU?usp=sharing)
+- RAG01（建立向量資料庫）：[Open in Colab](https://colab.research.google.com/drive/1IFT1gKtsDeJjBzHFi4XrslNUJpclnZVI?usp=sharing)
+
+備用（直接從本 repo 的 notebook 開啟，無執行輸出）：[RAG01](https://colab.research.google.com/github/Alan47495/genai-hw7-lab-safety-rag/blob/main/%E4%B8%AD%E8%88%88_4113052132_%E7%94%9F%E7%A7%913_%E8%94%A1%E5%AE%B8%E7%B6%AD_HW7_RAG01.ipynb)｜[RAG02](https://colab.research.google.com/github/Alan47495/genai-hw7-lab-safety-rag/blob/main/%E4%B8%AD%E8%88%88_4113052132_%E7%94%9F%E7%A7%913_%E8%94%A1%E5%AE%B8%E7%B6%AD_HW7_RAG02.ipynb)
 
 執行 RAG02 前，在 Colab 左側 🔑 密鑰新增名稱為 `Groq` 的 Groq API key。
 
